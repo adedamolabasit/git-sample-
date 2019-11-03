@@ -1,3 +1,4 @@
+import random
 exams_qus=["what colour are banana\n(a)brown\n(b)yellow\n(c)black\n(d)orange\n\n","what colour are snows\n(a)white\n(b)black\n(c)red\n(d)red\n\n", "what is the name of nigeria president\n(a)akinpelu adedamola\n(b)dada temitola\n(c)ibitu michael\n(d)muhammed buhari\n\n "]
 class Questions:
     def __init__(questions, question, answer):
