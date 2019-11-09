@@ -14,6 +14,7 @@ for turn in range(9):
     move=input()
     tic_board[move]=turn
     if turn=='x':
-        turn='0'
+        turn='o'
     else:
         turn='x'
+
